@@ -1,0 +1,18 @@
+body {
+    font-family: 'Hind', sans-serif;
+}
+#main-nav {
+    background: -webkit-linear-gradient(rgba(70, 98, 158, 0.75), transparent);
+    background: linear-gradient(rgba(70, 98, 158, 0.75), transparent);
+    height: 20vh
+}
+#container-nav {
+    margin: 2rem;
+}
+#main-title {
+    font-family: 'Abril Fatface', cursive;
+    word-spacing: .7rem;
+    margin: 0px;
+    color: ghostwhite;
+    text-shadow: 2px 7px 8px black
+}
